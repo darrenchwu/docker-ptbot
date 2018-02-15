@@ -18,7 +18,7 @@ Better to install on Ubuntu, or any systems with docker installed. This descript
 
 ### 3. Download files from this Repository (from your Home Directory)
 	$ wget https://github.com/darrenchwu/docker-ptbot-proxy-gzip/archive/master.zip && unzip master.zip
-	$ mv docker-ptbot-proxy-gzip-master/* . && rm -rf docker-ptbot-proxy-gzip-master && rm master.zip README.md Dockerfile
+	$ mv docker-ptbot-proxy-gzip-master/* . && rm -rf docker-ptbot-proxy-gzip-master && rm master.zip README.md Dockerfile install-docker.sh
 
 ### 4. Upload your ProfitTrailer folder from your PC to the Home Directory Ubuntu Server on Cloud
 
